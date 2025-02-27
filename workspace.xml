@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72bdbf2f-7fa4-452d-bb08-63e1251d31a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/Anca_Stanoev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/Anca_Stanoev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/Daria_Berca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/Mihai_Popescu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/ApplicationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Climber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/ClimberManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/ClimberManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/ClimberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Expedition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/ExpeditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/FileHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/GUIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Guide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/GuideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/HelperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Matchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Mountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/MountainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Rateable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/RouteManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/RouteManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/RouteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/TestOutputDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/ClimberProfileInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/EmergencyAdminClientFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/EmergencyAdminInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/ExpeditionChatClientFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/ExpeditionReportingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/ExpeditionReportingInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/GearClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/GearClientFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/client/GearClientScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/ClimberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/ClimberDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/DatabaseInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/ExpeditionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/ExpeditionDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/GuideDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/GuideDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/GuideTableUpdater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/MountainDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/MountainDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/RouteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/RouteDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/RouteTableUpdater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/TableEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/database/UserDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/googlemaps/MapApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/googlemaps/MapSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/image.jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/image.png.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/imageapi/ImageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/AddGuideInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/AddMountainInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/AddRouteInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/ChangeExperienceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/ClimberAppInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/CreateClimberInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/DisplayClimbersByExperienceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/HelpInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/ImageGalleryInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/PlanExpeditionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/SortClimbersInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/interfaces/UserLoginInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/io/InputDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/io/InputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/io/OutputDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/profile/ClimberProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/profile/ProfileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/server/EmergencyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/server/ExpeditionChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ancastanoev/server/GearServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/demo1/MapScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/demo1/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/demo1/listview-fix.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/demo1/map.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ancastanoev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ancastanoev/TrailMaster_Expedition_Planner.git",
+    "accountId": "d70e4b24-d3a8-4b38-880c-85912ecf9528"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pnTvwyXHYsEItFRdPL11HjNTbj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Climber2.executor": "Run",
+    "Application.ClimberAppInterface.executor": "Run",
+    "Application.ClimberProfileInterface.executor": "Run",
+    "Application.Emergency Server.executor": "Run",
+    "Application.EmergencyAdminInterface.executor": "Run",
+    "Application.EmergencyServer.executor": "Run",
+    "Application.ExpeditionChatClientFX.executor": "Run",
+    "Application.ExpeditionChatServer.executor": "Run",
+    "Application.ExpeditionReportingInterface.executor": "Run",
+    "Application.GearClient.executor": "Run",
+    "Application.GearClientFX.executor": "Run",
+    "Application.GearServer.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapApplication.executor": "Run",
+    "Application.PlanExpeditionInterface.executor": "Run",
+    "Application.Unnamed (1).executor": "Run",
+    "Application.Unnamed (2).executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Application.me.ancastanoev.interfaces.ClimberAppInterface.executor": "Run",
+    "Application.user2.executor": "Run",
+    "JUnit.ApplicationTest.executor": "Run",
+    "JUnit.ClimberDAOTest.executor": "Run",
+    "JUnit.ClimberManagerTest.executor": "Run",
+    "JUnit.ClimberTest.executor": "Run",
+    "JUnit.ClimberTests.executor": "Run",
+    "JUnit.ExpeditionDAOTest.executor": "Run",
+    "JUnit.ExpeditionTest.executor": "Run",
+    "JUnit.FileHandlerTest.executor": "Run",
+    "JUnit.GuideDAOTest.executor": "Run",
+    "JUnit.GuideTest.executor": "Run",
+    "JUnit.HelperTest.executor": "Run",
+    "JUnit.MountainDAOTest.executor": "Run",
+    "JUnit.MountainTest.executor": "Run",
+    "JUnit.RouteDAOTest.executor": "Run",
+    "JUnit.RouteManagerTest.executor": "Run",
+    "JUnit.RouteTest.executor": "Run",
+    "JUnit.UserDAOTest.executor": "Run",
+    "JavaScript Debug.map.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "TestNG.ClimberTest.executor": "Run",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user26.10.2020/IdeaProjects/ip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user26.10.2020\IdeaProjects\demo1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user26.10.2020\IdeaProjects\ip\src\main\java\me\ancastanoev" />
+      <recent name="C:\Users\user26.10.2020\IdeaProjects\ip\src\main\resources\org\example\demo1" />
+      <recent name="C:\Users\user26.10.2020\IdeaProjects\ip\src\main\resources" />
+      <recent name="C:\Users\user26.10.2020\IdeaProjects\demo1\src\main\java\org\example\demo1" />
+      <recent name="C:\Users\user26.10.2020\IdeaProjects\demo1\src\anca" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.demo1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed (2)">
+    <configuration name="Emergency Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="me.ancastanoev.server.EmergencyServer" />
+      <module name="proiect_p3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.ancastanoev.interfaces.ClimberAppInterface" />
+      <module name="proiect_p3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="me.ancastanoev.server.GearServer" />
+      <module name="proiect_p3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ip" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ip" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed (2)" />
+      <item itemvalue="Application.Emergency Server" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72bdbf2f-7fa4-452d-bb08-63e1251d31a1" name="Changes" comment="" />
+      <created>1733401075973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733401075973</updated>
+      <workItem from="1733401076920" duration="1042000" />
+      <workItem from="1733586881657" duration="191000" />
+      <workItem from="1733837384252" duration="1731000" />
+      <workItem from="1733998932579" duration="4705000" />
+      <workItem from="1734567447131" duration="777000" />
+      <workItem from="1734766738564" duration="46687000" />
+      <workItem from="1734967212835" duration="8317000" />
+      <workItem from="1735376798233" duration="1554000" />
+      <workItem from="1736286060219" duration="27469000" />
+      <workItem from="1736497630378" duration="990000" />
+      <workItem from="1736873688273" duration="9343000" />
+      <workItem from="1737122515429" duration="305000" />
+      <workItem from="1738351871670" duration="3110000" />
+      <workItem from="1738870153122" duration="61264000" />
+      <workItem from="1739017025833" duration="35419000" />
+      <workItem from="1739054307063" duration="1111000" />
+      <workItem from="1739056103396" duration="405000" />
+      <workItem from="1739056643222" duration="31599000" />
+      <workItem from="1739386792422" duration="1310000" />
+      <workItem from="1740689114325" duration="1031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
